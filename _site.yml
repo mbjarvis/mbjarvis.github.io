@@ -6,7 +6,7 @@ output_dir: "."
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: index.Rmd
     - text: "About"
       href: about.html
 output: distill::distill_article
