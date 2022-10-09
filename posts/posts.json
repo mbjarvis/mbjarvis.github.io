@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to my blog.",
+    "author": [
+      {
+        "name": "Matt Jarvis",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-10-07",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-10-09T13:32:53-04:00",
+    "input_file": {}
+  }
+]
