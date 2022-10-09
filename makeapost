@@ -1,0 +1,13 @@
+Notes for making a new post:
+
+First run the function:
+
+distill::create_post("Name of the Post")
+
+Then go into the _posts directory and edit the created Rmd file. 
+
+Knit the Rmd to html when done with editing. 
+
+Then go back to root and knit the main index.Rmd to html. 
+
+Commit and push changes. 
