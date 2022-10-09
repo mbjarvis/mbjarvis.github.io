@@ -8,5 +8,5 @@ navbar:
     - text: "Home"
       href: index.Rmd
     - text: "About"
-      href: about.html
+      href: about.Rmd
 output: distill::distill_article
